@@ -1,0 +1,9 @@
+C:\Users\alyssamoody\Desktop\NET-todo\src\NewToDo\bin\Debug\netcoreapp1.0\NewToDo.deps.json
+C:\Users\alyssamoody\Desktop\NET-todo\src\NewToDo\bin\Debug\netcoreapp1.0\NewToDo.runtimeconfig.json
+C:\Users\alyssamoody\Desktop\NET-todo\src\NewToDo\bin\Debug\netcoreapp1.0\NewToDo.runtimeconfig.dev.json
+C:\Users\alyssamoody\Desktop\NET-todo\src\NewToDo\bin\Debug\netcoreapp1.0\NewToDo.dll
+C:\Users\alyssamoody\Desktop\NET-todo\src\NewToDo\bin\Debug\netcoreapp1.0\NewToDo.pdb
+C:\Users\alyssamoody\Desktop\NET-todo\src\NewToDo\obj\Debug\netcoreapp1.0\NewToDo.csprojResolveAssemblyReference.cache
+C:\Users\alyssamoody\Desktop\NET-todo\src\NewToDo\obj\Debug\netcoreapp1.0\NewToDo.AssemblyInfo.cs
+C:\Users\alyssamoody\Desktop\NET-todo\src\NewToDo\obj\Debug\netcoreapp1.0\NewToDo.dll
+C:\Users\alyssamoody\Desktop\NET-todo\src\NewToDo\obj\Debug\netcoreapp1.0\NewToDo.pdb
