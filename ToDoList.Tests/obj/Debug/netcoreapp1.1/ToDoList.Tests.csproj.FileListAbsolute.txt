@@ -1,0 +1,14 @@
+C:\Users\alyssamoody\Desktop\NET-todo\ToDoList.Tests\bin\Debug\netcoreapp1.1\ToDoList.Tests.deps.json
+C:\Users\alyssamoody\Desktop\NET-todo\ToDoList.Tests\bin\Debug\netcoreapp1.1\ToDoList.Tests.dll
+C:\Users\alyssamoody\Desktop\NET-todo\ToDoList.Tests\obj\Debug\netcoreapp1.1\ToDoList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\alyssamoody\Desktop\NET-todo\ToDoList.Tests\obj\Debug\netcoreapp1.1\ToDoList.Tests.AssemblyInfo.cs
+C:\Users\alyssamoody\Desktop\NET-todo\ToDoList.Tests\bin\Debug\netcoreapp1.1\ToDoList.Tests.pdb
+C:\Users\alyssamoody\Desktop\NET-todo\ToDoList.Tests\bin\Debug\netcoreapp1.1\NewToDo.dll
+C:\Users\alyssamoody\Desktop\NET-todo\ToDoList.Tests\bin\Debug\netcoreapp1.1\NewToDo.pdb
+C:\Users\alyssamoody\Desktop\NET-todo\ToDoList.Tests\obj\Debug\netcoreapp1.1\ToDoList.Tests.dll
+C:\Users\alyssamoody\Desktop\NET-todo\ToDoList.Tests\obj\Debug\netcoreapp1.1\ToDoList.Tests.pdb
+C:\Users\alyssamoody\Desktop\NET-todo\ToDoList.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\alyssamoody\Desktop\NET-todo\ToDoList.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\alyssamoody\Desktop\NET-todo\ToDoList.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\alyssamoody\Desktop\NET-todo\ToDoList.Tests\bin\Debug\netcoreapp1.1\ToDoList.Tests.runtimeconfig.json
+C:\Users\alyssamoody\Desktop\NET-todo\ToDoList.Tests\bin\Debug\netcoreapp1.1\ToDoList.Tests.runtimeconfig.dev.json
